@@ -1,0 +1,2 @@
+persist.sys.isUsbOtgEnabled=true
+ro.treble.enabled=true
